@@ -10,7 +10,8 @@ mass=float(input('enter mass in kg:'))
 #formula for BIM
 BMI=mass  / (height**2)
 print(f"the value of BIM is{BMI}")
+#using conditional statement
 if (BMI<20):
     print("python")
 else:
-    print("python")
+    print("PYTHON")
